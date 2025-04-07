@@ -16,7 +16,7 @@
 - 🌱 Learning **JavaScript** to boost frontend wizardry  
 - 💼 AI Specialist with experience in intelligent document processing  
 - 👨‍💻 All of my projects are available at: [github.com/kalpit1234](https://github.com/kalpit1234)  
-- 📫 Reach me at: **2021pietcskalpit087@poornima.org**  
+- 📫 Reach me at: **kalpitmathur96@gmail.com**  
 - 📄 Know more about my experiences: *BRV Cloud Solution, RTech Group, PIET AICTE IDEA Lab*  
 - ⚡ Fun fact: **I debug while I dream 🛠️💤**
 
